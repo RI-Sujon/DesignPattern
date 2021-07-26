@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="new observer">
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/Chottogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/Dhaka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/IObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/Rajshahi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/StartClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagCreation/ObserverDesignPattern/display.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Chottogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Dhaka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Rajshahi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/StartClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/display.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/MyRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/MyRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/Option.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Chottogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Chottogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Dhaka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Dhaka.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/IObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/IObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Rajshahi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Rajshahi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Language.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompositeDesignPattern/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompositeDesignPattern/MyRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompositeDesignPattern/Option.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompositeDesignPattern/Option.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer/Chottogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Chottogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer/Dhaka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Dhaka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer/IObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/IObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer/Rajshahi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Rajshahi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/strategy/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/strategy/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategy/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/output.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +129,7 @@
       <recent name="E:\After July 12\Document\IdeaProjects\DesignPatternAssignment\src\Composite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartClass (1)">
+  <component name="RunManager" selected="Application.Client">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -273,19 +279,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.MainClass (1)" />
       <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StartClass (1)" />
       <item itemvalue="Application.StartClass" />
+      <item itemvalue="Application.StartClass (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.StartClass (1)" />
         <item itemvalue="Application.StartClass" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.MainClass (1)" />
       </list>
     </recent_temporary>
@@ -302,6 +308,14 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="new observer">
+      <created>1627271361673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627271361673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -310,24 +324,30 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="new observer" />
+    <option name="LAST_COMMIT_MESSAGE" value="new observer" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1627238291770">
+    <state x="362" y="6" key="CommitChangelistDialog2" timestamp="1627271359328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627238291770" />
-    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1627238291769">
+    <state x="362" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627271359328" />
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1627272089832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627238291769" />
-    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1627238291769">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627272089832" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1627272089832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627238291769" />
-    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1627238291770">
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627272089832" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1627272089832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627238291770" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627272089832" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1627272089832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627272089832" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1627271302267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

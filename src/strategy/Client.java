@@ -6,10 +6,14 @@ package strategy;
 public class Client {
 
     public static void main(String[] args) {
-        Language language = new Language() ;
-        language.convert(new ConvertToXML());
-        language.convert(new ConvertToCSV());
-        language.convert(new ConvertToJSON());
+        Language language = new Language(new ConvertToXML()) ;
+        language.convert();
+
+        language = new Language(new ConvertToCSV()) ;
+        //language.convert();
+
+        language = new Language(new ConvertToJSON()) ;
+        //language.convert();
     }    
 }
  

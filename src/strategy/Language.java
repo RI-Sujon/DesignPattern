@@ -1,7 +1,13 @@
 package strategy;
 
 public class Language {
-    public void convert(IConvert iConvert){
+    IConvert iConvert ;
+
+    public Language(IConvert iConvert){
+        this.iConvert = iConvert ;
+    }
+
+    public void convert(){
         iConvert.execute();
     }
 }
