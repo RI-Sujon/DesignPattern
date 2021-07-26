@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/MyRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/MyRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/CompositeDesignPattern/Option.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Chottogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Chottogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Dhaka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Dhaka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/IObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/IObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Rajshahi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Rajshahi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/Observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FlagCreation/strategy/Language.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompositeDesignPattern/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompositeDesignPattern/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompositeDesignPattern/Option.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompositeDesignPattern/Option.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer/Chottogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Chottogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer/Dhaka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Dhaka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer/IObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/IObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer/Rajshahi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Rajshahi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Language.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +84,13 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1Yw9WVdRexZsK2mxsafMFQ3f55B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -85,7 +110,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/.txt-Converter-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Composite" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -93,7 +118,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.StartClass">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\After July 12\Document\IdeaProjects\DesignPatternAssignment\src\Composite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartClass (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -177,6 +207,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StartClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverDesignPattern.StartClass" />
+      <module name="FlagCreation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObserverDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StartClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Observer.StartClass" />
       <module name="FlagCreation" />
@@ -233,14 +277,16 @@
       <item itemvalue="Application.MainClass (1)" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StartClass (1)" />
       <item itemvalue="Application.StartClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartClass (1)" />
         <item itemvalue="Application.StartClass" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -266,37 +312,29 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="167" key="FileChooserDialogImpl" timestamp="1604062909872">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1627238291770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="577" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604062909872" />
-    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1604136231557">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627238291770" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1627238291769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604136231557" />
-    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1604136231557">
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627238291769" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1627238291769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604136231557" />
-    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1604136231557">
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627238291769" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1627238291770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604136231557" />
-    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1604136231557">
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627238291770" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1627271302267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604136231557" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1604062752463">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627271302267" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627271326120">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604062752463" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610211706793">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610211706793" />
-    <state x="209" y="32" key="new project wizard" timestamp="1610180995399">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610180995399" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1627271326120" />
   </component>
 </project>

@@ -47,8 +47,5 @@ public class MyRectangle extends Composite{
         lineEndX = startX + width ;
         lineEndY = startY + height ;
         iShape.add(new MyLine(lineStartX,lineStartY,lineEndX,lineEndY,pane));
-
     }
-    
-    
 }

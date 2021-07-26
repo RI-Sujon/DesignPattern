@@ -9,7 +9,7 @@ package Observer;
  *
  * @author Asus
  */
-public class Chottogram extends IObserver {
+public class Chottogram implements IObserver {
 
     @Override
     public void getNotification(Controller controller) {

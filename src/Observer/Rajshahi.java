@@ -2,7 +2,7 @@
 package Observer;
 
 
-public class Rajshahi extends IObserver{
+public class Rajshahi implements IObserver{
 
     @Override
     public void getNotification(Controller controller) {

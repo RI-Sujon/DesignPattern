@@ -43,6 +43,7 @@ public class Controller implements Initializable {
 
     public void bidding(MouseEvent event){
         if(dp==false && rr==false && cc==false) return;
+        //if(dp==false && rr==false || rr==false && cc==false || dp==false && cc==false) return;
 
         amount = amount + 200 ;
         biddingAmountLabel.setText(String.valueOf(amount) + "$...");

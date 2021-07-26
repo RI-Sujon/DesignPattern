@@ -2,7 +2,7 @@
 package Observer;
 
 
-public class Dhaka extends IObserver {
+public class Dhaka implements IObserver {
     public void getNotification(Controller controller) {
 
         controller.setLabelDP();

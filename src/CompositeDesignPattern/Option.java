@@ -44,7 +44,6 @@ public class Option extends AnchorPane {
 
         allClear.setOnMouseClicked(event -> {
             pane.getChildren().clear();
-            System.out.println("hhhh");
             pane.getChildren().add(rectangle1);
         });
         optionButton[0]  = new Button("Line") ;
@@ -121,8 +120,6 @@ public class Option extends AnchorPane {
             MyLine line = new MyLine(startX,startY,endX,endY,pane) ;
             line.draw();
         });
-
-
     }
 
     public void drawCircle(){
@@ -164,7 +161,8 @@ public class Option extends AnchorPane {
             double radius = Double.valueOf((circleTextField[2].getText()));
 
 
-            MyCircle circle = new MyCircle(centerX,centerY,radius,pane) ;
+            //MyCircle circle = new MyCircle(centerX,centerY,radius,pane) ;
+            IShape circle = new MyCircle(centerX,centerY,radius,pane) ;
             circle.draw();
         });
 
@@ -209,7 +207,8 @@ public class Option extends AnchorPane {
             double height = Double.valueOf((rectangleTextField[2].getText()));
             double width = Double.valueOf((rectangleTextField[3].getText()));
 
-            MyRectangle rectangle = new MyRectangle(startX,startY,height,width,pane) ;
+            //MyRectangle rectangle = new MyRectangle(startX,startY,height,width,pane) ;
+            IShape rectangle = new MyRectangle(startX,startY,height,width,pane) ;
             rectangle.draw();
         });
 
@@ -259,7 +258,8 @@ public class Option extends AnchorPane {
             double X3 = Double.valueOf((triangleTextField[4].getText()));
             double Y3 = Double.valueOf((triangleTextField[5].getText()));
 
-            MyTriangle triangle = new MyTriangle(X1,Y1,X2,Y2,X3,Y3,pane) ;
+            //MyTriangle triangle = new MyTriangle(X1,Y1,X2,Y2,X3,Y3,pane) ;
+            IShape triangle = new MyTriangle(X1,Y1,X2,Y2,X3,Y3,pane) ;
             triangle.draw();
         });
 
@@ -299,14 +299,15 @@ public class Option extends AnchorPane {
         submit[4].setTranslateX(x);
         submit[4].setTranslateY(y);
         pane2.getChildren().add(submit[4]) ;
-        System.out.println("Hoy na ken5");
+
         submit[4].setOnMouseClicked(event -> {
 
             double startX = Double.valueOf((flagTextField[0].getText()));
             double startY = Double.valueOf((flagTextField[1].getText())) ;
             double length = Double.valueOf((flagTextField[2].getText()));
 
-            Flag flag = new Flag(startX,startY,length,pane) ;
+            //Flag flag = new Flag(startX,startY,length,pane) ;
+            IShape flag = new Flag(startX,startY,length,pane) ;
             flag.draw();
         });
 

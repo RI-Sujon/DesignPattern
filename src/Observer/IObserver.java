@@ -1,9 +1,5 @@
-
 package Observer;
 
-
-public abstract class IObserver {
-    
-    public abstract void getNotification(Controller controller) ;
-    
+public interface IObserver {
+    public void getNotification(Controller controller) ;
 }
